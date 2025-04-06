@@ -22,4 +22,18 @@ son a mesma función recursiva:
 ```python  
 def soño_dos_xustos():  
     while True:  
-        yield "Galiza"  
+        yield "Galiza"
+
+# 🌾 HÓRREO POÉTICO  
+
+   *"Un espazo onde as palabras medran como millo baixo a choiva de ceros e uns."*  
+
+   ## 📜 CONTIDO  
+   - `versos/`: Poemas en `.gal` (ex: `fogo_submarino.gal`).  
+   - `mapas/`: Coordenadas dos lugares dos poemas.  
+
+   ## 🪄 COMO USAR  
+   1. **Ler**: Navega polos arquivos como quen percorre un hórreo.  
+   2. **Contribuír**: Fai *fork* e engade os teus propios versos.  
+
+   *(🔮 *Licenza: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Podes copiar, modificar e até vender estes poemas sen preguntar.)*  
